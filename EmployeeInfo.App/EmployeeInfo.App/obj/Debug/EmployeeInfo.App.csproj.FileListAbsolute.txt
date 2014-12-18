@@ -1,0 +1,9 @@
+F:\17_12_2014Day7\EmployeeInfo.App\EmployeeInfo.App\bin\Debug\EmployeeInfo.App.exe.config
+F:\17_12_2014Day7\EmployeeInfo.App\EmployeeInfo.App\bin\Debug\EmployeeInfo.App.exe
+F:\17_12_2014Day7\EmployeeInfo.App\EmployeeInfo.App\bin\Debug\EmployeeInfo.App.pdb
+F:\17_12_2014Day7\EmployeeInfo.App\EmployeeInfo.App\obj\Debug\EmployeeInfo.App.csprojResolveAssemblyReference.cache
+F:\17_12_2014Day7\EmployeeInfo.App\EmployeeInfo.App\obj\Debug\EmployeeInfo.App.Form1.resources
+F:\17_12_2014Day7\EmployeeInfo.App\EmployeeInfo.App\obj\Debug\EmployeeInfo.App.Properties.Resources.resources
+F:\17_12_2014Day7\EmployeeInfo.App\EmployeeInfo.App\obj\Debug\EmployeeInfo.App.csproj.GenerateResource.Cache
+F:\17_12_2014Day7\EmployeeInfo.App\EmployeeInfo.App\obj\Debug\EmployeeInfo.App.exe
+F:\17_12_2014Day7\EmployeeInfo.App\EmployeeInfo.App\obj\Debug\EmployeeInfo.App.pdb

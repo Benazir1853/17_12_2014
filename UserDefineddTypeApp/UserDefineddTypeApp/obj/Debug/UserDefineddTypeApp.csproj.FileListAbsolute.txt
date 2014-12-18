@@ -1,0 +1,6 @@
+F:\17_12_2014Day7\UserDefineddTypeApp\UserDefineddTypeApp\bin\Debug\UserDefineddTypeApp.exe.config
+F:\17_12_2014Day7\UserDefineddTypeApp\UserDefineddTypeApp\bin\Debug\UserDefineddTypeApp.exe
+F:\17_12_2014Day7\UserDefineddTypeApp\UserDefineddTypeApp\bin\Debug\UserDefineddTypeApp.pdb
+F:\17_12_2014Day7\UserDefineddTypeApp\UserDefineddTypeApp\obj\Debug\UserDefineddTypeApp.csprojResolveAssemblyReference.cache
+F:\17_12_2014Day7\UserDefineddTypeApp\UserDefineddTypeApp\obj\Debug\UserDefineddTypeApp.exe
+F:\17_12_2014Day7\UserDefineddTypeApp\UserDefineddTypeApp\obj\Debug\UserDefineddTypeApp.pdb

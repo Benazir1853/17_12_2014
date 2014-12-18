@@ -1,0 +1,10 @@
+F:\17_12_2014Day7\DailyExpenseApp\DailyExpenseApp\bin\Debug\DailyExpenseApp.exe.config
+F:\17_12_2014Day7\DailyExpenseApp\DailyExpenseApp\bin\Debug\DailyExpenseApp.exe
+F:\17_12_2014Day7\DailyExpenseApp\DailyExpenseApp\bin\Debug\DailyExpenseApp.pdb
+F:\17_12_2014Day7\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.csprojResolveAssemblyReference.cache
+F:\17_12_2014Day7\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.Form1.resources
+F:\17_12_2014Day7\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.Properties.Resources.resources
+F:\17_12_2014Day7\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.csproj.GenerateResource.Cache
+F:\17_12_2014Day7\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.exe
+F:\17_12_2014Day7\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.pdb
+F:\17_12_2014Day7\DailyExpenseApp\DailyExpenseApp\bin\Debug\CSVLib.dll

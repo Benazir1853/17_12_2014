@@ -1,0 +1,9 @@
+F:\17_12_2014Day7\StudentApp\StudentApp\bin\Debug\StudentApp.exe.config
+F:\17_12_2014Day7\StudentApp\StudentApp\bin\Debug\StudentApp.exe
+F:\17_12_2014Day7\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+F:\17_12_2014Day7\StudentApp\StudentApp\obj\Debug\StudentApp.csprojResolveAssemblyReference.cache
+F:\17_12_2014Day7\StudentApp\StudentApp\obj\Debug\StudentApp.Form1.resources
+F:\17_12_2014Day7\StudentApp\StudentApp\obj\Debug\StudentApp.Properties.Resources.resources
+F:\17_12_2014Day7\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.GenerateResource.Cache
+F:\17_12_2014Day7\StudentApp\StudentApp\obj\Debug\StudentApp.exe
+F:\17_12_2014Day7\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
